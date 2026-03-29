@@ -1,0 +1,8 @@
+{
+  "raw_rows": 3328,
+  "clean_rows": 3200,
+  "duplicates_removed": 128,
+  "nulls_fixed": 279,
+  "type_errors_fixed": 50,
+  "casing_fixed": 2995
+}

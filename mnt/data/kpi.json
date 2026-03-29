@@ -1,0 +1,23 @@
+{
+  "revenue": 15367671.13,
+  "orders": 1778,
+  "aov": 8643.23,
+  "winrate": 69.5,
+  "top2_rep_share": 50.9,
+  "peak_month": "Jun",
+  "peak_month_rev_k": 1620.9,
+  "peak_month_pct_above_avg": 26.6,
+  "winrate_by_category": {
+    "Hardware": 69.4,
+    "Services": 70.4,
+    "Software": 69.9,
+    "Support": 66.8,
+    "Unknown": 65.5
+  },
+  "aov_by_quarter": {
+    "Q1": 8248,
+    "Q2": 9285,
+    "Q3": 8525,
+    "Q4": 8515
+  }
+}

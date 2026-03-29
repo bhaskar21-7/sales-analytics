@@ -1,0 +1,31 @@
+{
+  "peak": {
+    "month": "Jun",
+    "value_k": 1620.9,
+    "avg_k": 1280.6,
+    "pct_above_avg": 26.6,
+    "text": "Jun was the strongest month at $1620.9K \u2014 26.6% above the $1280.6K monthly average."
+  },
+  "concentration": {
+    "top2_share": 50.9,
+    "top_rep": "Marcus T.",
+    "top_rep_k": 3938.8,
+    "text": "Top 2 reps drive 50.9% of total revenue. Marcus T. alone contributes $3938.8K \u2014 high dependency, recommend playbook documentation."
+  },
+  "category": {
+    "best_cat": "Services",
+    "best_wr": 70.4,
+    "worst_cat": "Support",
+    "worst_wr": 66.8,
+    "sw_share": 36.2,
+    "text": "Services leads with 70.4% win rate. Support lags at 66.8%. Software drives 36.2% of total revenue."
+  },
+  "aov_trend": {
+    "q1": 8248,
+    "q4": 8515,
+    "change": 267,
+    "pct": 3.2,
+    "direction": "up",
+    "text": "AOV moved from $8,248 in Q1 to $8,515 in Q4 (+3.2%) \u2014 upsell momentum detected."
+  }
+}

@@ -1,0 +1,31 @@
+category,rep,total_revenue,deal_count,avg_deal_size
+Hardware,Dana W.,124205.38,29,4282.94
+Hardware,James L.,158824.91,55,2887.73
+Hardware,Marcus T.,661606.33,76,8705.35
+Hardware,Priya N.,707080.62,73,9686.04
+Hardware,Sarah K.,797630.86,104,7669.53
+Hardware,Unassigned,169431.58,13,13033.2
+Services,Dana W.,300188.19,50,6003.76
+Services,James L.,847323.0,81,10460.78
+Services,Marcus T.,1382207.4,126,10969.9
+Services,Priya N.,1272825.33,125,10182.6
+Services,Sarah K.,1376642.7,143,9626.87
+Services,Unassigned,19458.52,15,1297.23
+Software,Dana W.,618313.39,60,10305.22
+Software,James L.,905634.54,99,9147.82
+Software,Marcus T.,1382419.8,145,9533.93
+Software,Priya N.,1157333.24,152,7614.03
+Software,Sarah K.,1475761.24,176,8385.01
+Software,Unassigned,21398.01,21,1018.95
+Support,Dana W.,108688.14,21,5175.63
+Support,James L.,416578.96,30,13885.97
+Support,Marcus T.,445950.42,52,8575.97
+Support,Priya N.,313596.91,35,8959.91
+Support,Sarah K.,136640.68,50,2732.81
+Support,Unassigned,159101.09,11,14463.74
+Unknown,Dana W.,2063.72,3,687.91
+Unknown,James L.,7419.76,5,1483.95
+Unknown,Marcus T.,66574.44,6,11095.74
+Unknown,Priya N.,238816.05,13,18370.47
+Unknown,Sarah K.,92381.74,6,15396.96
+Unknown,Unassigned,1574.19,3,524.73
