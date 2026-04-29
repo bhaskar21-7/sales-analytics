@@ -2,7 +2,7 @@
 
 > End-to-end data pipeline — from raw CRM exports to a fully reactive dashboard with real data cleaning, computed business insights, linear regression forecasting, and dynamic filters.
 
-**[Live Demo →](https://YOURUSERNAME.github.io/sales-analytics)**
+**[Live Demo →](https://bhaskar21-7.github.io/sales-analytics)**
 
 ---
 
